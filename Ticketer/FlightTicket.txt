@@ -1,0 +1,36 @@
+----------------------------------------------------------------------------------
+|                                 Kazat Airlines                                 |
+|                                 FLIGHT TICKET                                  |
+|                                                                                |
+|NAME:          SIRAJ, TALHA                                                     |
+|FLIGHT:        KA17                                             FRI 12 OCT 2018 |
+|DEPARTURE:     LHR                                                 12 OCT 14:15 |
+|ARRIVAL:       ISL                                                 12 OCT 15:15 |
+|SEAT:          03-B                                                             |
+|               RESERVATION CONFIRMED                                            |
+|                                                                                |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+|                                 Kazat Airlines                                 |
+|                                 FLIGHT TICKET                                  |
+|                                                                                |
+|NAME:          SIRAJ, TALHA                                                     |
+|FLIGHT:        KA00                                             MON 01 OCT 2018 |
+|DEPARTURE:     KHI                                                 01 OCT  6:15 |
+|ARRIVAL:       LHR                                                 01 OCT  7:15 |
+|SEAT:          05-A                                                             |
+|               RESERVATION CONFIRMED                                            |
+|                                                                                |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+|                                 Kazat Airlines                                 |
+|                                 FLIGHT TICKET                                  |
+|                                                                                |
+|NAME:          SXXS, TALHA                                                      |
+|FLIGHT:        KA00                                             MON 01 OCT 2018 |
+|DEPARTURE:     KHI                                                 01 OCT  6:15 |
+|ARRIVAL:       LHR                                                 01 OCT  7:15 |
+|SEAT:          05-A                                                             |
+|               RESERVATION CONFIRMED                                            |
+|                                                                                |
+----------------------------------------------------------------------------------
